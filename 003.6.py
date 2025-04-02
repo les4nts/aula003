@@ -1,5 +1,5 @@
 litros = float(input("quantos litros voce abasteceu?"))
-combustivel = input("qual o tipo de combustivel?(G - galosina, E- etanol) ")
+combustivel = input("qual o tipo de combustivel?(G - galosina, E- etanol): ")
 gasolina = 5.8
 etanol = 4.9
 
